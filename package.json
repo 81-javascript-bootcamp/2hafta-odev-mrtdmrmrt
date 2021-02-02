@@ -1,0 +1,23 @@
+{
+  "name": "2hafta-odev-mrtdmrmrt",
+  "version": "1.0.0",
+  "description": "[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4015111&assignment_repo_type=AssignmentRepo) # 2.Hafta Odev",
+  "main": "odev.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/81-javascript-bootcamp/2hafta-odev-mrtdmrmrt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/81-javascript-bootcamp/2hafta-odev-mrtdmrmrt/issues"
+  },
+  "homepage": "https://github.com/81-javascript-bootcamp/2hafta-odev-mrtdmrmrt#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
