@@ -2,3 +2,10 @@
 # 2.Hafta Odev
 
 odev ile ilgili yonlendirmeler odev.js dosyasinda bulunuyor.
+
+```
+Test için Jest framework'ü kullanılmıştır.
+Test işlemini gerçekleştirmek için yapılacak olan adımlar:
+1.)npm install
+2.)npm run test
+```
